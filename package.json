@@ -1,0 +1,20 @@
+{
+  "name": "cv-application-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohananOppongAmoateng/cv-application-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohananOppongAmoateng/cv-application-react/issues"
+  },
+  "homepage": "https://github.com/JohananOppongAmoateng/cv-application-react#readme"
+}
